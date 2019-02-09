@@ -1,7 +1,9 @@
 # 2 Pass Assembler Implemented Using C
 
 Optab.txt -> Op Code Table
+
 Symtab.txt -> Symbol Table
+
 Inter.txt -> Intermediate Code
 
 ## STEPS :-
